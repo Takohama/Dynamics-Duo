@@ -1,1 +1,1 @@
-# Dynamics-Duo
+# Duo-Dynamics
